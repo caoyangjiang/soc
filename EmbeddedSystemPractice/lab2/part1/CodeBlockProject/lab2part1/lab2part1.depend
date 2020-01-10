@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1578552329 source:/home/root/EmbeddedSystemPractices/lab2/part1/CodeBlockProject/lab2part1/physical.c
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/mman.h>
+
+1578555956 source:/home/root/EmbeddedSystemPractices/lab2/part1/CodeBlockProject/lab2part1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"physical.h"
+	"address_map_arm.h"
+
+1578552333 /home/root/EmbeddedSystemPractices/lab2/part1/CodeBlockProject/lab2part1/physical.h
+
+1578552315 /home/root/EmbeddedSystemPractices/lab2/part1/CodeBlockProject/lab2part1/address_map_arm.h
+
+1578634127 source:/home/root/soc/EmbeddedSystemPractice/lab2/part1/CodeBlockProject/lab2part1/main.c
+	<stdio.h>
+	<stdlib.h>
+	"physical.h"
+	"address_map_arm.h"
+
+1578552333 /home/root/soc/EmbeddedSystemPractice/lab2/part1/CodeBlockProject/lab2part1/physical.h
+
+1578552315 /home/root/soc/EmbeddedSystemPractice/lab2/part1/CodeBlockProject/lab2part1/address_map_arm.h
+
+1578552329 source:/home/root/soc/EmbeddedSystemPractice/lab2/part1/CodeBlockProject/lab2part1/physical.c
+	<stdio.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/mman.h>
+

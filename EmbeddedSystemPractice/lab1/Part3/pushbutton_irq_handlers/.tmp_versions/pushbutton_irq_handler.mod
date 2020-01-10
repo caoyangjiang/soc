@@ -1,0 +1,2 @@
+/home/root/EmbeddedSystemPractices/lab1/Part3/pushbutton_irq_handlers/pushbutton_irq_handler.ko
+/home/root/EmbeddedSystemPractices/lab1/Part3/pushbutton_irq_handlers/pushbutton_irq_handler.o
